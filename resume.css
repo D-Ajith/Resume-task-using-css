@@ -1,0 +1,28 @@
+#navbar{
+    background-color:#9A80E3;
+    color:white;
+}
+a{
+    text-decoration:none;
+    color:white
+}
+a:active{
+    background-color:gold;
+}
+.section{
+         background-color:ivory;
+}
+footer{
+    background-color: #9A80E3;
+    color:white
+}
+p , li{
+    color:#cb311a;
+}
+h3{
+    background-color: #9A80E3;
+    color:white
+}
+b{
+    color:blueviolet
+}
